@@ -1,0 +1,23 @@
+{
+  "name": "dark_scene",
+  "description": "\u4f4e\u7167\u5ea6\u573a\u666f 0~50 | \u6838\u5fc3\u9a8c\u8bc1\uff1a\u589e\u5f3a\u540e\u5e94\u6269\u5c55\u81f30~255",
+  "img_shape": [
+    32,
+    32
+  ],
+  "out_shape": [
+    32,
+    32
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 0,
+  "max_in": 50,
+  "min_out": 0,
+  "max_out": 255,
+  "lut_shape": [
+    4,
+    4,
+    256
+  ]
+}

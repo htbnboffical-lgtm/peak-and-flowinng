@@ -1,0 +1,23 @@
+{
+  "name": "random_noise",
+  "description": "\u968f\u673a\u566a\u58f0\u5168\u8303\u56f4 | \u538b\u529b\u6d4b\u8bd5\uff1a\u9a8c\u8bc1\u7edf\u8ba1\u903b\u8f91\u9c81\u68d2\u6027",
+  "img_shape": [
+    32,
+    32
+  ],
+  "out_shape": [
+    32,
+    32
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 0,
+  "max_in": 255,
+  "min_out": 0,
+  "max_out": 255,
+  "lut_shape": [
+    4,
+    4,
+    256
+  ]
+}

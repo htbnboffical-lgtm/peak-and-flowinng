@@ -1,0 +1,23 @@
+{
+  "name": "high_contrast",
+  "description": "\u9ad8\u5bf9\u6bd4\u5ea6\u573a\u666f | \u9a8c\u8bc1\u88c1\u526a\u903b\u8f91\uff1aclipLimit\u622a\u65ad\u5206\u914d",
+  "img_shape": [
+    32,
+    32
+  ],
+  "out_shape": [
+    32,
+    32
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 30,
+  "max_in": 200,
+  "min_out": 184,
+  "max_out": 255,
+  "lut_shape": [
+    4,
+    4,
+    256
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "single_tile",
+  "description": "\u5355Tile 8\u00d78\u7cbe\u786e\u5bf9\u8d26 | \u7528\u4e8eRTL\u9010\u5468\u671f\u9a8c\u8bc1",
+  "img_shape": [
+    8,
+    8
+  ],
+  "out_shape": [
+    8,
+    8
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 10,
+  "max_in": 115,
+  "min_out": 0,
+  "max_out": 255,
+  "lut_shape": [
+    1,
+    1,
+    256
+  ]
+}

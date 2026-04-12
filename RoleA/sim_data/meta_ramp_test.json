@@ -1,0 +1,23 @@
+{
+  "name": "ramp_test",
+  "description": "\u7ebf\u6027\u6e10\u53d8 0~255 | \u6d4b\u8bd5\u6620\u5c04\u5355\u8c03\u6027\u4e0e\u7ebf\u6027\u5ea6",
+  "img_shape": [
+    32,
+    32
+  ],
+  "out_shape": [
+    32,
+    32
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 0,
+  "max_in": 8,
+  "min_out": 0,
+  "max_out": 225,
+  "lut_shape": [
+    4,
+    4,
+    256
+  ]
+}

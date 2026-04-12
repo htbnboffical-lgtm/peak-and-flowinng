@@ -1,0 +1,23 @@
+{
+  "name": "flat_gray",
+  "description": "\u5747\u5300\u7070\u5ea6128 | \u6d4b\u8bd5\u8fb9\u754c\uff1a\u8f93\u51fa\u5e94\u63a5\u8fd1128",
+  "img_shape": [
+    32,
+    32
+  ],
+  "out_shape": [
+    32,
+    32
+  ],
+  "tile_size": 8,
+  "clip_limit": 40,
+  "min_in": 128,
+  "max_in": 128,
+  "min_out": 255,
+  "max_out": 255,
+  "lut_shape": [
+    4,
+    4,
+    256
+  ]
+}
